@@ -68,9 +68,12 @@ section {
 
 header {
 	background-color: #333;
-	color: lime;
+	color: #21C721;
 }
 header h1 {
 	display: inline-block;
+	font-size: 3rem;
+	margin-left: 20rem;
 }
+
 
