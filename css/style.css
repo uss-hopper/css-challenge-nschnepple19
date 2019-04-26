@@ -62,5 +62,15 @@ body { width: 100%;}
 * * Attribute Selectors
 ******************************************************/
 
+section {
+	padding: 2rem 0;
+}
 
+header {
+	background-color: #333;
+	color: lime;
+}
+header h1 {
+	display: inline-block;
+}
 
