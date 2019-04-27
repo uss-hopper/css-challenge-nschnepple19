@@ -85,9 +85,22 @@ header h1 {
 	align-items: flex-start;
 	padding: 25px;
 	border: 5px black;
+	width: 250px;
 }
 
 img [alt = "welcome to my homepage"] {
 	display: block;
 	align-items: center;
 }
+
+.about-me img{
+	width: 250px;
+	margin-right: 2rem;
+	float: left;
+	border: white;
+}
+section.about-me {
+	color:#fff;
+	background-color: blue;
+}
+
