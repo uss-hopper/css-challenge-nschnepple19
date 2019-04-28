@@ -104,3 +104,66 @@ section.about-me {
 	background-color: blue;
 }
 
+section:nth-child(4) h2 {
+	text-align: right;
+margin-top: 0;
+}
+
+section:nth-child(4) table {
+	color: lime;
+	width: 100%;
+}
+
+section:nth-child(4) table td {
+	background-color: black;
+	padding: 15px;
+	text-align: left;
+}
+
+section:nth-child(4) table th {
+	background-color: black;
+	text-align: left;
+	padding: 15px;
+}
+
+.form-wrapper{
+	background-color: green;
+	color: lime;
+	padding: 25px;
+}
+
+div.sfooter-content section:last-child{
+	  background-color: #333;
+}
+
+footer{
+	background-color: black;
+	color: white;
+	text-align: center;
+}
+
+.instructions-content {
+	flex: 1;
+	padding-right: 2rem;
+}
+
+.instructions-wrapper img {
+	width: 250px;
+}
+
+input textarea {
+	width: 40%;
+	padding: 5px;
+}
+
+
+form div:nth-child(4){
+	margin-bottom: 10px;
+}
+
+button {
+	background-color: lime;
+	font-weight: bold;
+	font-size: 1rem;
+	padding: 10px 20px;
+}
